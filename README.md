@@ -78,6 +78,7 @@ FastAPI automatically provisions an interactive documentation and testing interf
 | **POST** | `/query` | Embeds the user question, runs a top-k vector similarity search, and returns the grounded answer alongside source verification snippets. |
 | **DELETE** | `/documents/{source_name}` | Purges all vector records and chunks associated with a specific file source from disk. |
 
+
 ## 💡 Quick Test Examples (cURL)
 
 1. Upload & Ingest a Document
