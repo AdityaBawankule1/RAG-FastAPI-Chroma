@@ -111,3 +111,8 @@ curl -X 'POST' \
 * Introduce metadata filtering namespaces for multi-tenant user document isolation.
 
 * Add Docker containerization (Dockerfile & docker-compose.yml) for seamless cloud deployment.
+
+
+## 👨‍💻 Author
+
+**Aditya Bawankule**
