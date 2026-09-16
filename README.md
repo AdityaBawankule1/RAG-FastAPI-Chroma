@@ -114,6 +114,6 @@ curl -X 'POST' \
 * Add Docker containerization (Dockerfile & docker-compose.yml) for seamless cloud deployment.
 
 
-## 👨‍💻 Author
+## 👨‍💻 Project By
 
 **Aditya Bawankule**
